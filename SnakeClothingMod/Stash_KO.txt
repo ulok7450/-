@@ -1,6 +1,6 @@
-Stash_EN = {
+Stash_KO = {
 
-    Stash_SCMMap1_Text1 = "Far to the west. Close to the Fossoil.",
-	Stash_SCMMap2_Text1 = "Here I left the suit to carry out",
-	Stash_SCMMap2_Text2 = "the bank robbery...",
+    Stash_SCMMap1_Text1 = "서쪽으로 멀리,Fossoil과 가깝다.",
+	Stash_SCMMap2_Text1 = "여기에 수행할 복장를 두고왔다.",
+	Stash_SCMMap2_Text2 = "은행 강도...",
 }
