@@ -1,0 +1,13 @@
+Tooltip_KO = {
+	
+	Tooltip_craft_TableSawDesc = "통나무를 50% 빠르게 자르고 더욱 많은 판자를 얻을 수 있습니다.",
+	Tooltip_SawEngine = "이 낡은 엔진은 아직 동작하는 것처럼 보입니다",
+	Tooltip_Sawblade = "이 둥글고, 매우 날카로운 톱날은 테이블톱 작업에 적합해 보입니다.",
+	Tooltip_Craft Table Saw = "테이블톱 만들기",
+	Tooltip_needrecipe = "필요한 레시피 : ",
+	Tooltip_StickStacks = "나무막대기 24개가 들어 있습니다.",
+	Tooltip_item_RainFromGround2 = "바깥에 놓으면 빗물을 모으는데 사용할 수 있습니다. <br>이 용기로 모인 물은 올바르게 정수되지 않으면 휴대 할 수 없습니다.",
+	Tooltip_ItemDye = "염료를 만드는데 사용될 수 있습니다.",
+	Tooltip_ItemPaint = "페인트를 만드는데 사용될 수 있습니다.",
+	Tooltip_MetalSpikes = "무기의 공격력을 증가시킵니다.",
+}
