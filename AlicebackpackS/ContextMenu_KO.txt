@@ -1,0 +1,4 @@
+ContextMenu_KO = {
+	ContextMenu_OpenMRE = "MRE 포장 열기",
+	ContextMenu_OpenMREBox = "MRE 상자 열기",
+}
