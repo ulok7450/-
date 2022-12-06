@@ -1,5 +1,5 @@
-Recipe_EN = {
+Recipe_KO = {
 
-  Recipe_Make_Upholstery_Sewing_Kit = "Make Upholstery Sewing Kit",
-  Recipe_Get_Needle = "Get Needle",
+  Recipe_Make_Upholstery_Sewing_Kit = "덮개 재봉 키트 만들기",
+  Recipe_Get_Needle = "바늘 얻기",
 }
