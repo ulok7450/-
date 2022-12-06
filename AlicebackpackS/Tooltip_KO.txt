@@ -1,12 +1,12 @@
-Tooltip_EN = {
+Tooltip_KO = {
 	
-	Tooltip_SupportBackpack = "Mountable holder in military backpacks, weight reduction thereof.",
-	Tooltip_MilitiaPouch1 = "A little dump pouch (Urban cammo) for several uses.",
-	Tooltip_MilitiaPouch2 = "A little dump pouch (Jungle cammo) for several uses.",
-	Tooltip_AlicePack = "Military backpack without upgrades.",
-	Tooltip_UpgradedAlicePack1 = "Military backpack Alice with holder added.",
-    Tooltip_UpgradedAlicePack2 = "Military backpack Alice with holder and bag (Urban cammo) added.",
-	Tooltip_UpgradedAlicePack2b = "Military backpack Alice with holder and bag (Jungle cammo) added.",
-	Tooltip_UpgradedAlicePack3 = "Military backpack Alice with bag (Urban cammo) added.",
-	Tooltip_UpgradedAlicePack3b = "Military backpack Alice with bag (Jungle cammo) added.",
+	Tooltip_SupportBackpack = "군용 가방에 거치가능한 거치대 입니다. 무게를 줄여줍니다.",
+	Tooltip_MilitiaPouch1 = "다양하게 활용 가능한 작은 잡낭입니다. (시가전 위장)",
+	Tooltip_MilitiaPouch2 = "다양하게 활용 가능한 작은 잡낭입니다. (정글 위장)",
+	Tooltip_AlicePack = "아무런 업그레이드가 없는 군용 가방입니다.",
+	Tooltip_UpgradedAlicePack1 = "거치대가 추가된 군용 가방입니다.",
+    Tooltip_UpgradedAlicePack2 = "거치대와 잡낭(시가전 위장)이 추가된 군용 가방입니다.",
+	Tooltip_UpgradedAlicePack2b = "거치대와 잡낭(정글 위장)이 추가된 군용 가방입니다.",
+	Tooltip_UpgradedAlicePack3 = "잡낭(시가전 위장)이 추가된 군용 가방입니다.",
+	Tooltip_UpgradedAlicePack3b = "잡낭(정글 위장)이 추가된 군용 가방입니다.",
 }
