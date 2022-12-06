@@ -1,10 +1,10 @@
-ItemName_EN = {
-	ItemName_Base.BowlingPin = "Bowling Pin",
-	ItemName_Base.Bowlingball = "Bowling Ball",
-	ItemName_Base.Shoes_BowlingTrainers = "Bowling Shoes",
-	ItemName_Base.Shoes_BowlingTrainersRed = "Bowling Shoes",
-	ItemName_Base.Shoes_BowlingTrainersGreen = "Bowling Shoes",
-	ItemName_Base.RiversideGunstoreMap = "Riverside Gunstore Map",
-	ItemName_Base.Chipote = "Chipote Chillon",
-	ItemName_Base.FunMetalBaseballBat = "Unique Baseball Bat(4Fungamingg)",
+ItemName_KO = {
+	ItemName_Base.BowlingPin = "볼링 핀",
+	ItemName_Base.Bowlingball = "볼링 공",
+	ItemName_Base.Shoes_BowlingTrainers = "볼링화",
+	ItemName_Base.Shoes_BowlingTrainersRed = "볼링화",
+	ItemName_Base.Shoes_BowlingTrainersGreen = "볼링화",
+	ItemName_Base.RiversideGunstoreMap = "리버사이드 총포상 지도",
+	ItemName_Base.Chipote = "치포테 칠리온",
+	ItemName_Base.FunMetalBaseballBat = "유니크 야구 방망이(4Fungamingg)",
 }
