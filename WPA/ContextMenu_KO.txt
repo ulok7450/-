@@ -1,0 +1,8 @@
+ContextMenu_EN = {
+
+	ContextMenu_RepairSilencer = "소음기 수리하기",
+	ContextMenu_RepairS = "수리하기",
+	ContextMenu_RepairSilencerTT = "수리키트를 10% 씩 사용하여 수리할 수 있습니다.",
+	ContextMenu_fixing = "고치기",
+	ContextMenu_cantequipsilencer = "이 무기 부품은 완전히 파손 되었습니다.",
+}
