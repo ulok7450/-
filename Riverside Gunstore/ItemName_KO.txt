@@ -1,0 +1,10 @@
+ItemName_EN = {
+	ItemName_Base.BowlingPin = "Bowling Pin",
+	ItemName_Base.Bowlingball = "Bowling Ball",
+	ItemName_Base.Shoes_BowlingTrainers = "Bowling Shoes",
+	ItemName_Base.Shoes_BowlingTrainersRed = "Bowling Shoes",
+	ItemName_Base.Shoes_BowlingTrainersGreen = "Bowling Shoes",
+	ItemName_Base.RiversideGunstoreMap = "Riverside Gunstore Map",
+	ItemName_Base.Chipote = "Chipote Chillon",
+	ItemName_Base.FunMetalBaseballBat = "Unique Baseball Bat(4Fungamingg)",
+}
