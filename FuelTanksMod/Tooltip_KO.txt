@@ -1,9 +1,9 @@
-Tooltip_EN = {
+Tooltip_KO = {
 	
-	Tooltip_Craft Fuel Tanks = "Build Fuel Tank",
-	Tooltip_needrecipe = "Recipe needed: ",
-	Tooltip_craft_FuelTankDesc = "Can be used to store fuel.      ",
-	Tooltip_ftalreadyknownrecipe = " (Already knows the recipe)",
-	Tooltip_FuelMeter = "You can use it to measure the remaining units of gasoline from a gas pump.",
-	Tooltip_FAmount = "Units of gasoline remaining: ",
+	Tooltip_Craft Fuel Tanks = "연료통 짓기",
+	Tooltip_needrecipe = "필요한 제작법: ",
+	Tooltip_craft_FuelTankDesc = "기름을 보관하는데 사용됩니다.",
+	Tooltip_ftalreadyknownrecipe = " (이미 제작법을 알고 있습니다.)",
+	Tooltip_FuelMeter = "연료 펌프에 남은 연료량을 알 수 있습니다.",
+	Tooltip_FAmount = "남아 있는 가솔린의 양: ",
 }
