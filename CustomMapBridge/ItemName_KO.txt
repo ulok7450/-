@@ -17,5 +17,5 @@ ItemName_KO = {
 	ItemName_Base.KeyI = "4fungamingg 열쇠",
 	ItemName_Base.KeyJ = "Turno Zero 열쇠",
 	ItemName_Base.KeyK = "유니콘 열쇠",
-	ItemName_Base.Flag4fun = "4fungamingg ",
+	ItemName_Base.Flag4fun = "4fungamingg 열쇠",
 }
