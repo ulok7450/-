@@ -1,7 +1,7 @@
-UI_EN = {
+UI_KO = {
 
-    UI_trait_Strongback = "Muscle back",
-	UI_trait_StrongbackDesc = "You can carry more weight (+25% Base Weight)",
-	UI_trait_Metalstrongback = "Iron back",
-	UI_trait_MetalstrongbackDesc = "It's in your cells.<br> You can carry +50% Base Weight",
+    UI_trait_Strongback = "강한 등",
+	UI_trait_StrongbackDesc = "당신은 더 많은 무게를 짊어질 수 있습니다. (기본 무게 +25%)",
+	UI_trait_Metalstrongback = "강철 등",
+	UI_trait_MetalstrongbackDesc = "It's in your cells.<br> 기본 무게의 +50%를 들 수 있습니다.",
 }
