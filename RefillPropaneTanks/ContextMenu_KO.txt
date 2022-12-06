@@ -1,8 +1,8 @@
-ContextMenu_EN = {
+ContextMenu_KO = {
 
-	ContextMenu_RechargeTank = "Recharge propane tank",
-	ContextMenu_RechargeTankTT = "Need: Propane tank",
-	ContextMenu_TankContains = "Tank Contains: ",
-	ContextMenu_PropaneNonFull = "not full.",
+	ContextMenu_RechargeTank = "프로판 통 충전하기",
+	ContextMenu_RechargeTankTT = "필요: 프로판 통",
+	ContextMenu_TankContains = "내용물: ",
+	ContextMenu_PropaneNonFull = "가득 차지 않음.",
 
 }
