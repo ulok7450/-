@@ -1,5 +1,5 @@
-ItemName_EN = {
-	ItemName_BatesMetalicos.MetalBaseballBat = "Metal Baseball Bat",
-	ItemName_BatesMetalicos.Bgrip = "Pro Bat Grip",
-	ItemName_BatesMetalicos.Bsock = "Pro Bat Swing Sock",
+ItemName_KO = {
+	ItemName_BatesMetalicos.MetalBaseballBat = "금속 야구 방망이",
+	ItemName_BatesMetalicos.Bgrip = "프로 방망이 그립",
+	ItemName_BatesMetalicos.Bsock = "프로 스윙 양말",
 }
