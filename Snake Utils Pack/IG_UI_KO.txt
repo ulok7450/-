@@ -1,13 +1,13 @@
-IGUI_EN = {
+IGUI_KO = {
 
-	IGUI_ScavengeUI_Metals = "Metals",
-	IGUI_ScavengeUI_Seeds = "Seeds",
-	IGUI_ScavengeUI_Dyes = "Dyes",
-	IGUI_ScavengeUI_Mining = "Mining",
-	IGUI_TraitInfoNeg = "(Negative)",
-	IGUI_TraitInfoPos = "(Positive)",
-	IGUI_TraitInfoProf = "(Linked to Profession)",
-	IGUI_CustomSkillCursorTitle = "Custom Skill Box",
-	IGUI_CustomSkillCursorDesc = "Activates a Custom Icon in Skill Panel. \nWhen leveling up, only the last skill box will light up with an animated cursor.",
-	IGUI_NeedPickaxe = "I need to equip a pickaxe to obtain this resource.",
+	IGUI_ScavengeUI_Metals = "금속",
+	IGUI_ScavengeUI_Seeds = "씨앗",
+	IGUI_ScavengeUI_Dyes = "염료",
+	IGUI_ScavengeUI_Mining = "광물",
+	IGUI_TraitInfoNeg = "(부정적)",
+	IGUI_TraitInfoPos = "(긍정적)",
+	IGUI_TraitInfoProf = "(직업과 연관된)",
+	IGUI_CustomSkillCursorTitle = "커스텀 스킬 상자",
+	IGUI_CustomSkillCursorDesc = "스킬창에서 커스텀 아이콘을 활성화합니다. \n레벨이 오르면,움직이는 화살표와 함께 스킬 박스가 반짝입니다.",
+	IGUI_NeedPickaxe = "이 자원을 얻기위해서는 곡괭이가 필요해.",
 }
