@@ -1,11 +1,11 @@
 ItemName_KO = {
-	ItemName_AliceBP.AlicePack = "군용 정글 가방",
+	ItemName_AliceBP.AlicePack = "군용 정글위장 가방",
 	ItemName_AliceBP.UpgradedAlicePack1 = "군용 가방 (프레임)",
 	ItemName_AliceBP.UpgradedAlicePack2 = "군용 가방 (프레임 + 주머니)",
 	ItemName_AliceBP.UpgradedAlicePack2b = "군용 가방 (프레임 + 주머니)",
 	ItemName_AliceBP.UpgradedAlicePack3 = "군용 가방 (주머니)",
 	ItemName_AliceBP.UpgradedAlicePack3b = "군용 가방 (주머니)",
-	ItemName_AliceBP.AlicePackUrban = "군용 시가전 가방",
+	ItemName_AliceBP.AlicePackUrban = "군용 시가전 위장 가방",
 	ItemName_AliceBP.SpearMilitaryKnife = "사냥용 칼 달린 창",
-	ItemName_AliceBP.AlicePackDesert = "군용 사막 가방",
+	ItemName_AliceBP.AlicePackDesert = "군용 사막위장 가방",
 }
