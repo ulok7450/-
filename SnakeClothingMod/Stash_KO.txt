@@ -1,0 +1,6 @@
+Stash_EN = {
+
+    Stash_SCMMap1_Text1 = "Far to the west. Close to the Fossoil.",
+	Stash_SCMMap2_Text1 = "Here I left the suit to carry out",
+	Stash_SCMMap2_Text2 = "the bank robbery...",
+}
