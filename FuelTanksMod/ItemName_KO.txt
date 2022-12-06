@@ -1,4 +1,4 @@
-ItemName_EN = {
-    ItemName_FuelTanks.FuelTanksMag1 = "'Fuel Tanks' Magazine",
-    ItemName_FuelTanks.FuelMeter = "Fuel Meter",
+ItemName_KO = {
+    ItemName_FuelTanks.FuelTanksMag1 = "잡지'연료통'",
+    ItemName_FuelTanks.FuelMeter = "연료 미터기",
 }
