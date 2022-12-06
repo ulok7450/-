@@ -1,8 +1,8 @@
-IGUI_EN = {
-	IGUI_ContainerTitle_cheese_table = "Cheese table",
-	IGUI_ContainerTitle_reloading_table = "Reloading table",
-	IGUI_ContainerTitle_security_box = "Security box",
-	IGUI_ContainerTitle_crate_blue = "Crate blue",
+IGUI_KO = {
+	IGUI_ContainerTitle_cheese_table = "치즈 제작대",
+	IGUI_ContainerTitle_reloading_table = "재장전 선반",
+	IGUI_ContainerTitle_security_box = "보안 상자",
+	IGUI_ContainerTitle_crate_blue = "파색 상자",
 	IGUI_ContainerTitle_crate_green = "Crate green",
 	IGUI_ContainerTitle_crate_lightbrown = "Crate lightbrown",
 	IGUI_ContainerTitle_crate_lightblue = "Crate lightblue",
