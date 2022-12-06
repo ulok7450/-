@@ -24,6 +24,6 @@
 	Tooltip_SkillMagMaintenance = "이 잡지를 통해 물건관리 경험치를 습득할 수 있습니다.",
 	Tooltip_SkillMagTailor = "이 잡지를 통해 재단술 경험치를 습득할 수 있습니다.",
 	Tooltip_SkillMagPackage = "10가지의 기술 관련 잡지가 들어있습니다.",
-	Tooltip_SkillMagAmmoReloading = "이 잡지를 통해  경험치를 습득할 수 있습니다.",
+	Tooltip_SkillMagAmmoReloading = "이 잡지를 통해 재장전 경험치를 습득할 수 있습니다.",
 	Tooltip_SkillMagHunting = "이 잡지를 통해 수렵 경험치를 습득할 수 있습니다.",
 }
