@@ -1,5 +1,5 @@
-Recipe_EN = {
+Recipe_KO = {
 
-  Recipe_Craft_Fuel_Tanks = "Craft Fuel Tanks",
+  Recipe_Craft_Fuel_Tanks = "연료통 만들기",
 
 }
