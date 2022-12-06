@@ -1,12 +1,12 @@
 Items_EN = {
 
-    DisplayNameSoporte_de_mochila_Alice = "Alice pack frame with straps",
+    DisplayNameSoporte_de_mochila_Alice = "끈 달린 군용 가방 프레임",
     DisplayNameBolsa_militar_(Urbana) = "잡낭 (시가전 위장)",
-    DisplayNameBolsa_militar_(Jungla) = "Dump pouch (정글 위장)",
+    DisplayNameBolsa_militar_(Jungla) = "잡낭 (정글 위장)",
 	DisplayNameMeal_Ready_To_Eat = "Meal_Ready-To-Eat",
-	DisplayNameCase_of_MREs = "Case of MREs",
-	DisplayNameMilitary_Canteen_(Empty) = "Military canteen (Empty)",
-	DisplayNameMilitary_Canteen_(Full) = "Military canteen (Full)",
-	DisplayNameMilitary_knife = "Military knife",
-	DisplayNameGrenade_Mk2 = "Hand grenade Mk2",
+	DisplayNameCase_of_MREs = "MRE 상자",
+	DisplayNameMilitary_Canteen_(Empty) = "군용 수통 (빔)",
+	DisplayNameMilitary_Canteen_(Full) = "군용 수통 (가득참)",
+	DisplayNameMilitary_knife = "군용 칼",
+	DisplayNameGrenade_Mk2 = "MK2 수류탄",
 }
