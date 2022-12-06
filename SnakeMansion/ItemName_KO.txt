@@ -1,0 +1,12 @@
+ItemName_KO = {
+	ItemName_Base.ZMChip1 = "룰렛 칩 ($1)",
+	ItemName_Base.ZMChip2 = "룰렛 칩 ($2)",
+	ItemName_Base.ZMChip3 = "룰렛 칩 ($5)",
+	ItemName_Base.ZMChip4 = "룰렛 칩 ($10)",
+	ItemName_Base.ZMChip5 = "룰렛 칩 ($20)",
+	ItemName_Base.ZMChip6 = "룰렛 칩 ($50)",
+	ItemName_Base.ZMChip7 = "룰렛 칩 ($100)",
+	ItemName_Base.ZMChip8 = "룰렛 칩 ($500)",
+	ItemName_Base.ZMChip9 = "룰렛 칩 ($1000)",
+	ItemName_Base.RouletteStick = "크루피어 스틱",
+}
