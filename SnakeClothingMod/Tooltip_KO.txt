@@ -1,6 +1,6 @@
-Tooltip_EN = {
+Tooltip_KO = {
 	
-	Tooltip_DitoPack = "A backpack tanned in a thousand battles.",
-	Tooltip_UpholsteryKit = "Can be used to repair vehicle seats.",
-	Tooltip_ChapulinSuit = "No contaban con mi astucia",
+	Tooltip_DitoPack = "수많은 전투에 그을린 가방.",
+	Tooltip_UpholsteryKit = "차량 좌석을 수리하는 데 사용가능합니다.",
+	Tooltip_ChapulinSuit = "그들은 내 교활함을 믿지 않았다.",
 }
