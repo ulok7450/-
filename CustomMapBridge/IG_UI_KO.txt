@@ -2,97 +2,97 @@ IGUI_KO = {
 	IGUI_ContainerTitle_cheese_table = "치즈 제작대",
 	IGUI_ContainerTitle_reloading_table = "재장전 선반",
 	IGUI_ContainerTitle_security_box = "보안 상자",
-	IGUI_ContainerTitle_crate_blue = "파색 상자",
-	IGUI_ContainerTitle_crate_green = "Crate green",
-	IGUI_ContainerTitle_crate_lightbrown = "Crate lightbrown",
-	IGUI_ContainerTitle_crate_lightblue = "Crate lightblue",
-	IGUI_ContainerTitle_crate_brown = "Crate brown",
-	IGUI_ContainerTitle_crate_orange = "Crate orange",
-	IGUI_ContainerTitle_crate_cyan = "Crate cyan",
-	IGUI_ContainerTitle_crate_pink = "Crate pink",
-	IGUI_ContainerTitle_crate_grey = "Crate grey",
-	IGUI_ContainerTitle_crate_turquoise = "Crate turquoise",
-	IGUI_ContainerTitle_crate_purple = "Crate purple",
-	IGUI_ContainerTitle_crate_yellow = "Crate yellow",
-	IGUI_ContainerTitle_crate_white = "Crate white",
-	IGUI_ContainerTitle_crate_red = "Crate red",
-	IGUI_ContainerTitle_crate_black = "Crate black",
-	IGUI_ContainerTitle_crate_dito = "Crate (Ditogenes)",
-	IGUI_ContainerTitle_crate_ammunition = "Crate (Ammunition)",
-	IGUI_ContainerTitle_crate_food = "Crate (Food)",
-	IGUI_ContainerTitle_crate_literature = "Crate (Literature)",
-	IGUI_ContainerTitle_crate_medical = "Crate (medical)",
-	IGUI_ContainerTitle_crate_weapons = "Crate (Weapons)",
-	IGUI_ContainerTitle_crate_carpentry = "Crate (Carpentry)",
-	IGUI_ContainerTitle_crate_electricity = "Crate (Electricity)",
-	IGUI_ContainerTitle_crate_farming = "Crate (Farming)",
-	IGUI_ContainerTitle_crate_fishing = "Crate (Fishing)",
-	IGUI_ContainerTitle_crate_mechanics = "Crate (Mechanics)",
-	IGUI_ContainerTitle_crate_metalwelding = "Crate (MetalWelding)",
-	IGUI_ContainerTitle_crate_painting = "Crate (Painting)",
-	IGUI_ContainerTitle_crate_scavenge = "Crate (Scavenge)",
-	IGUI_ContainerTitle_crate_trash = "Crate (Trash)",
-	IGUI_ContainerTitle_crate_clothing = "Crate (Clothing)",
-	IGUI_ContainerTitle_fishing_basket = "Fishing basket",
-	IGUI_ContainerTitle_simple_military_crate = "Simple military crate",
-	IGUI_ContainerTitle_military_crate = "Military crate",
-	IGUI_ContainerTitle_army_locker = "Army locker",
-	IGUI_ContainerTitle_military_shelves = "Military shelves",
-	IGUI_ContainerTitle_extinguishers_shelves = "Extinguishers box",
-	IGUI_ContainerTitle_incubator = "Incubator",
-	IGUI_ContainerTitle_labfridge = "Lab fridge",
-	IGUI_ContainerTitle_furframe = "Furframe",
-	IGUI_ContainerTitle_cane_support = "Cane support",
-	IGUI_ContainerTitle_saw_table = "Table saw",
-	IGUI_ContainerTitle_tiremachine = "Tire machine",
-	IGUI_ContainerTitle_mechanic_counter = "Mechanic counter",
-	IGUI_ContainerTitle_coffee_grinder = "Coffee grinder",
-	IGUI_ContainerTitle_crate_army = "Simple military crate",
-	IGUI_ContainerTitle_metalpallet = "Pallet",
-	IGUI_ContainerTitle_bar_furniture = "Bar Shelves",
-	IGUI_ContainerTitle_crate_9mm = "Crate (9mm)",
-	IGUI_ContainerTitle_crate_45 = "Crate (Cal.45)",
-	IGUI_ContainerTitle_crate_38 = "Crate (Cal.38)",
-	IGUI_ContainerTitle_crate_44 = "Crate (Cal.44)",
-	IGUI_ContainerTitle_crate_223 = "Crate (Cal.223)",
-	IGUI_ContainerTitle_crate_308 = "Crate (Cal.308)",
-	IGUI_ContainerTitle_crate_556 = "Crate (Cal.556)",
-	IGUI_ContainerTitle_crate_shell = "Crate (Shotgun Shells)",
-	IGUI_ContainerTitle_roulette = "Roulette",
-	IGUI_ContainerTitle_eg_displaycase = "Display Case",
+	IGUI_ContainerTitle_crate_blue = "파란색 상자",
+	IGUI_ContainerTitle_crate_green = "녹색 상자",
+	IGUI_ContainerTitle_crate_lightbrown = "연갈색 상자",
+	IGUI_ContainerTitle_crate_lightblue = "연파랑 상자",
+	IGUI_ContainerTitle_crate_brown = "갈색 상자",
+	IGUI_ContainerTitle_crate_orange = "주황색 상자",
+	IGUI_ContainerTitle_crate_cyan = "청록생 상자",
+	IGUI_ContainerTitle_crate_pink = "분홍색 상자",
+	IGUI_ContainerTitle_crate_grey = "회색 상자",
+	IGUI_ContainerTitle_crate_turquoise = "옥색 상자",
+	IGUI_ContainerTitle_crate_purple = "보라색 상자",
+	IGUI_ContainerTitle_crate_yellow = "노란색 상자",
+	IGUI_ContainerTitle_crate_white = "흰색 상자",
+	IGUI_ContainerTitle_crate_red = "붉은색 상자",
+	IGUI_ContainerTitle_crate_black = "검정색 상자",
+	IGUI_ContainerTitle_crate_dito = "보관함 (Ditogenes)",
+	IGUI_ContainerTitle_crate_ammunition = "보관함 (탄약)",
+	IGUI_ContainerTitle_crate_food = "보관함 (식량)",
+	IGUI_ContainerTitle_crate_literature = "보관함 (서적)",
+	IGUI_ContainerTitle_crate_medical = "보관함 (의료)",
+	IGUI_ContainerTitle_crate_weapons = "보관함 (무기)",
+	IGUI_ContainerTitle_crate_carpentry = "보관함 (목공)",
+	IGUI_ContainerTitle_crate_electricity = "보관함 (전기)",
+	IGUI_ContainerTitle_crate_farming = "보관함 (농사)",
+	IGUI_ContainerTitle_crate_fishing = "보관함 (낚시)",
+	IGUI_ContainerTitle_crate_mechanics = "보관함 (정비)",
+	IGUI_ContainerTitle_crate_metalwelding = "보관함 (용접)",
+	IGUI_ContainerTitle_crate_painting = "보관함 (페인트)",
+	IGUI_ContainerTitle_crate_scavenge = "보관함 (폐품)",
+	IGUI_ContainerTitle_crate_trash = "보관함 (쓰레)",
+	IGUI_ContainerTitle_crate_clothing = "보관함 (의류)",
+	IGUI_ContainerTitle_fishing_basket = "낚시 바구니",
+	IGUI_ContainerTitle_simple_military_crate = "간단한 군용 보관함",
+	IGUI_ContainerTitle_military_crate = "군용 보관함",
+	IGUI_ContainerTitle_army_locker = "군용 락커",
+	IGUI_ContainerTitle_military_shelves = "군용 선반",
+	IGUI_ContainerTitle_extinguishers_shelves = "소화기 보관함",
+	IGUI_ContainerTitle_incubator = "배양기",
+	IGUI_ContainerTitle_labfridge = "연구용 냉장고",
+	IGUI_ContainerTitle_furframe = "가죽 지지대",
+	IGUI_ContainerTitle_cane_support = "수수대",
+	IGUI_ContainerTitle_saw_table = "테이블 톱",
+	IGUI_ContainerTitle_tiremachine = "타이어 기계",
+	IGUI_ContainerTitle_mechanic_counter = "정비용 카운터",
+	IGUI_ContainerTitle_coffee_grinder = "커피 그라인더",
+	IGUI_ContainerTitle_crate_army = 간단한 군용 보관함",
+	IGUI_ContainerTitle_metalpallet = "파레트",
+	IGUI_ContainerTitle_bar_furniture = "주점 선반",
+	IGUI_ContainerTitle_crate_9mm = "보관함 (9mm)",
+	IGUI_ContainerTitle_crate_45 = "보관함 (.45 구경)",
+	IGUI_ContainerTitle_crate_38 = "보관함 (.38 구경)",
+	IGUI_ContainerTitle_crate_44 = "보관함 (44 구경)",
+	IGUI_ContainerTitle_crate_223 = "보관함 (223 구경)",
+	IGUI_ContainerTitle_crate_308 = "보관함 (308 구경)",
+	IGUI_ContainerTitle_crate_556 = "보관함 (5.56mm)",
+	IGUI_ContainerTitle_crate_shell = "보관함 (산탄총 탄약)",
+	IGUI_ContainerTitle_roulette = "룰렛",
+	IGUI_ContainerTitle_eg_displaycase = "장식장",
 
-	IGUI_CMBDiscoverEasterEgg = "<H1> SECRET OBTAINED <BR> <IMAGECENTRE:CMBEasterEgg> <LINE>" ..
+	IGUI_CMBDiscoverEasterEgg = "<H1> 비밀 찾음 <BR> <IMAGECENTRE:CMBEasterEgg> <LINE>" ..
             "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
 	        "<H1>Gained a Special Briefcase!!! <LINE> <H1>",
 
-	IGUI_CMBDiscoverEasterEggB1 = "<H1> SECRET OBTAINED <BR> <IMAGECENTRE:EasterEggSurvivor> <LINE>" ..
+	IGUI_CMBDiscoverEasterEggB1 = "<H1> 비밀 찾음 <BR> <IMAGECENTRE:EasterEggSurvivor> <LINE>" ..
             "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
-	        "<H1>Gained a Special Survivor Backpack!!! <LINE> <H1>",
-	IGUI_CMBDiscoverEasterEggB2 = "<H1> SECRET OBTAINED <BR> <IMAGECENTRE:EasterEggSnake> <LINE>" ..
+	        "<H1>특별 생존 배낭 획득!!! <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggB2 = "<H1> 비밀 찾음 <BR> <IMAGECENTRE:EasterEggSnake> <LINE>" ..
             "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
-	        "<H1>Gained a Unique Backpack!!! <LINE> <H1>",
-	IGUI_CMBDiscoverEasterEggC = "<H1> SECRET OBTAINED <BR> <IMAGECENTRE:Craneo> <LINE>" ..
+	        "<H1>유니크 배낭 찾음!!! <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggC = "<H1> 비밀 찾음 <BR> <IMAGECENTRE:Craneo> <LINE>" ..
             "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
-	        "<H1>Ancient treasure obtained!!! <LINE> <H1>",
-	IGUI_CMBDiscoverEasterEggChap = "<H1> SECRET OBTAINED <BR> <IMAGECENTRE:EasterEggChapulin> <LINE>" ..
+	        "<H1>고대 유물 찾아냄!!! <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggChap = "<H1> 비밀 찾음 <BR> <IMAGECENTRE:EasterEggChapulin> <LINE>" ..
             "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
-	        "<H1>Gained a Special Briefcase!!! <LINE> <H1>",
-	IGUI_CMBDiscoverEasterEggChar = "<H1> SECRET OBTAINED <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
+	        "<H1>특별 서류가방 획득!!!! <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggChar = "<H1> 비밀 찾음 <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
             "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
-	        "<H1>Gained a Special Briefcase!!! <LINE> <H1>",
-	IGUI_CMBDiscoverEasterEggCow = "<H1> SECRET OBTAINED <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
+	        "<H1>특별 서류가방 획득!!!! <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggCow = "<H1> 비밀 찾음 <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
             "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
-	        "<H1>Gained a Special Briefcase!!! <LINE> <H1>",
-	IGUI_CMBDiscoverEasterEggMon = "<H1> SECRET OBTAINED <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
+	        "<H1>특별 서류가방 획득!!!! <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggMon = "<H1> 비밀 찾음 <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
             "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
-	        "<H1>Gained a Special Briefcase!!! <LINE> <H1>",
-	IGUI_CMBDiscoverEasterEggUmb = "<H1> SECRET OBTAINED <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
+	        "<H1>특별 서류가방 획득!!!! <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggUmb = "<H1> 비밀 찾음 <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
             "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
-	        "<H1>Gained a Special Briefcase!!! <LINE> <H1>",
-	IGUI_CMBDiscoverEasterEggUnicorn = "<H1> SECRET OBTAINED <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
+	        "<H1>특별 서류가방 획득!!!! <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggUnicorn = "<H1> 비밀 찾음 <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
             "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
-	        "<H1>Gained a Special Briefcase!!! <LINE> <H1>",
-	IGUI_CMBDiscoverEasterEgg4Fun = "<H1> SECRET OBTAINED <BR> <IMAGECENTRE:EasterEggMaletin4Fun> <LINE>" ..
+	        "<H1>특별 서류가방 획득!!! <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEgg4Fun = "<H1> 비밀 찾음 <BR> <IMAGECENTRE:EasterEggMaletin4Fun> <LINE>" ..
             "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
-	        "<H1>Gained a Special Briefcase!!! <LINE> <H1>",
+	        "<H1>특별 서류가방 획득!!! <LINE> <H1>",
 }
