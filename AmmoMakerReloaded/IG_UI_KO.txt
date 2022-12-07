@@ -1,6 +1,6 @@
-UI_EN = {
+UI_KO = {
 
-    IGUI_CraftCategory_Ammo = "Reloading",
-	IGUI_perks_AMReloading = "Artillery",
-	IGUI_ItemCat_Reloading = "Reloading",
+    IGUI_CraftCategory_Ammo = "재장전",
+	IGUI_perks_AMReloading = "화포",
+	IGUI_ItemCat_Reloading = "재장전",
 }
