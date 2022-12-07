@@ -1,4 +1,4 @@
-ContextMenu_EN = {
+ContextMenu_KO = {
 
 	ContextMenu_RepairSilencer = "소음기 수리하기",
 	ContextMenu_RepairS = "수리하기",
